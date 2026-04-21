@@ -1,0 +1,6 @@
+2026-04-21 23:19:32,706 - TradingBot - INFO - Initializing Binance Futures Testnet Client.
+2026-04-21 23:19:33,487 - TradingBot - INFO - Sending MARKET order request for 0.01 BTCUSDT: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-04-21 23:19:34,421 - TradingBot - ERROR - Binance API Exception: 400 - Timestamp for this request is outside of the recvWindow.
+2026-04-21 23:22:56,528 - TradingBot - INFO - Initializing Binance Futures Testnet Client.
+2026-04-21 23:22:57,187 - TradingBot - INFO - Sending MARKET order request for 0.01 BTCUSDT: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-04-21 23:22:57,875 - TradingBot - INFO - Order successful. Response: {'orderId': 13058483234, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ460b8e5000b9d16874440f', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0100', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776793977763}
